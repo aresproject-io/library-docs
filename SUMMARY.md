@@ -8,6 +8,10 @@
 * [Microsoft 365](cloud-platforms/microsoft-365/README.md)
   * [Page](cloud-platforms/microsoft-365/page.md)
 
+***
+
+* [Page 2](page-2.md)
+
 ## Google Workspace
 
-* [Page 1](google-workspace/page-1.md)
+* [Overview](google-workspace/overview.md)
