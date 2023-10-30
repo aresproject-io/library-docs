@@ -18,16 +18,36 @@ Content Hubs are logically separated sections pertaining to specific topics, for
 
 ***
 
-
-
 <details>
 
 <summary>Cloud Platforms</summary>
 
-* Microsoft 365
-  * Commercial
-  * Government Community Cloud (GCC)
-  * Government Community Cloud High (GCC-H)
+## Microsoft 365
+
+* Commercial
+* Government Community Cloud (GCC)
+* Government Community Cloud High (GCC-H)
+
+***
+
 * Google Workspace
+
+
+
+</details>
+
+<details>
+
+<summary>Startups</summary>
+
+
+
+</details>
+
+<details>
+
+<summary>Cyber Security Compliance</summary>
+
+
 
 </details>
