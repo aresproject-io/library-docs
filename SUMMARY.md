@@ -2,6 +2,12 @@
 
 * [Content Hubs](README.md)
 
-## Group 1
+## Cloud Platforms
 
-* [Cloud Platforms](group-1/cloud-platforms.md)
+* [Overview](cloud-platforms/overview.md)
+* [Microsoft 365](cloud-platforms/microsoft-365/README.md)
+  * [Page](cloud-platforms/microsoft-365/page.md)
+
+## Google Workspace
+
+* [Page 1](google-workspace/page-1.md)
