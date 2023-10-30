@@ -1,5 +1,4 @@
 ---
-description: Welcome to the Ares Project Library
 layout:
   title:
     visible: true
@@ -13,10 +12,22 @@ layout:
     visible: false
 ---
 
-# Welcome
+# Overview
 
-## Welcome to the Library
+Content Hubs are logically separated sections pertaining to specific topics, for example: Cyber Security, Endpoint, and delve further into those topics.
 
-The purpose of the library is to provide a platform to cover one of the primary missions of the project; an open-source community-driven knowledge hub dedicated to empowering cybersecurity and information technology professionals
+***
 
-##
+
+
+<details>
+
+<summary>Cloud Platforms</summary>
+
+* Microsoft 365
+  * Commercial
+  * Government Community Cloud (GCC)
+  * Government Community Cloud High (GCC-H)
+* Google Workspace
+
+</details>
