@@ -1,3 +1,17 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: false
+  outline:
+    visible: true
+  pagination:
+    visible: false
+---
+
 # Content Hubs
 
 Content Hubs are logically separated sections pertaining to specific topics, for example: Cyber Security, Endpoint, and delve further into those topics.
