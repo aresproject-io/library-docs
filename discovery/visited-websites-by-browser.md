@@ -20,7 +20,7 @@ DeviceNetworkEvents
 
 ## Google Chrome
 
-```
+```powerquery
 // Detect sites visited using Microsoft Edge
 // Note: Device ID must be filled in
 
