@@ -5,6 +5,7 @@
 ## Cloud Platforms
 
 * [Overview](cloud-platforms/overview.md)
+* [Directory](cloud-platforms/directory.md)
 
 ## Google Workspace
 
