@@ -20,6 +20,8 @@ This is the standard Microsoft 365 cloud that is used by most businesses and ind
 
 This cloud is designed for US government agencies and contractors. It is hosted in Microsoft's US-based data centers and meets the specific compliance requirements of the US government.
 
+[government](../google-workspace/platforms/government/ "mention")
+
 ### Government Community Cloud High (GCC-H)
 
 This cloud is designed for US government agencies and contractors that specific levels of unclassified data, typically referred to as Controllable Unclassified Information (CUI). It is hosted in Microsoft's US-based data centers and meets specific compliance requirements.
