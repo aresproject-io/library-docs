@@ -1,6 +1,23 @@
 # Table of contents
 
 * [Overview](README.md)
-* [Licensing](licensing.md)
-* [Platform](platform.md)
-* [Resources](resources.md)
+
+## Cloud Platforms
+
+* [Overview](cloud-platforms/overview.md)
+
+## Google Workspace
+
+* [Overview](google-workspace/overview.md)
+* [Platforms](google-workspace/platforms.md)
+* [Licensing](google-workspace/licensing.md)
+* [Compliance](google-workspace/compliance.md)
+
+## Microsoft 365
+
+* [Overview](microsoft-365/overview.md)
+* [Platforms](microsoft-365/platforms/README.md)
+  * [Copy of Government Community Cloud High (GCC-H)](microsoft-365/platforms/copy-of-government-community-cloud-high-gcc-h.md)
+  * [Commercial](microsoft-365/platforms/commercial.md)
+  * [Government](microsoft-365/platforms/government.md)
+  * [Government Community Cloud (GCC)](microsoft-365/platforms/government-community-cloud-gcc.md)
